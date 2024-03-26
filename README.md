@@ -7,7 +7,10 @@
 ## Direct Dependencies
 
 - `arxiv`
+- `graphviz`
 - `langchain`
 - `langchain-openai`
+- `networkx`
+- `pydot`
 
 For a comprehensive list that includes both direct and transitive dependencies, please refer to the `requirements.txt` file.
