@@ -1,4 +1,7 @@
 cache
+*.dot
+*.gml
+*.svg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
